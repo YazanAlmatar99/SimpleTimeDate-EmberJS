@@ -1,8 +1,5 @@
 # show-date-time
 
-This README outlines the details of collaborating on this GlimmerX application.
-A short introduction of this app could easily go here.
-
 # Description
 
 This app will show the date and time in New York and Paris.
