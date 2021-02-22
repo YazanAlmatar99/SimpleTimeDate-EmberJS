@@ -121,5 +121,9 @@
   "engines": {
     "node": ">= 12.0"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "ember-moment": "^8.0.1",
+    "moment": "^2.29.1"
+  }
 }
